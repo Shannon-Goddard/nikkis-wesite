@@ -1119,3 +1119,7 @@ section {
     display: inline-block;
   }
 }
+
+.portfolio-wrap i {
+  color: #FF69B4;
+}
