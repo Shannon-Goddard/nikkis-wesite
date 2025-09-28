@@ -1,10 +1,3 @@
-/**
-* Template Name: Gp - v4.8.1
-* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -32,6 +25,12 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.favicon-icon {
+              display: inline-block;
+              width: 1em;
+              height: 1em;
+              vertical-align: -0.125em;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -295,6 +294,10 @@ h6 {
     font-size: 20px;
     line-height: 24px;
   }
+}
+
+#social {
+  margin-bottom: 20px;
 }
 
 /*--------------------------------------------------------------
