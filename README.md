@@ -56,7 +56,7 @@ The website showcases three main categories of custom work:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/Shannon-Goddard/nikkis-wesite]
 cd nikkis-wesite
 ```
 
